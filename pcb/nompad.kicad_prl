@@ -118,19 +118,7 @@
         "open": true,
         "window": {
           "display": 0,
-          "maximized": false,
-          "pos_x": 2567,
-          "pos_y": 15,
-          "size_x": 2538,
-          "size_y": 2077
-        }
-      },
-      {
-        "name": "nompad.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": false,
+          "maximized": true,
           "pos_x": 1713,
           "pos_y": 15,
           "size_x": 1693,
