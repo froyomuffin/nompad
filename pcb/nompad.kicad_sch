@@ -1257,10 +1257,6 @@
 		(uuid "61e58414-aeb7-4832-bc0d-a7f2d70ef4b7")
 	)
 	(no_connect
-		(at 185.42 82.55)
-		(uuid "655f4c16-2c17-44c0-bd97-ea76bee287e8")
-	)
-	(no_connect
 		(at 185.42 115.57)
 		(uuid "6af2a2e1-ccce-471f-ae22-693e97ab0919")
 	)
@@ -1271,6 +1267,10 @@
 	(no_connect
 		(at 167.64 87.63)
 		(uuid "96ab2d09-aeee-4631-9402-445944f87d61")
+	)
+	(no_connect
+		(at 196.85 90.17)
+		(uuid "c84ece28-c3f3-4dc6-9b58-97e16ef45487")
 	)
 	(no_connect
 		(at 180.34 82.55)
@@ -1483,16 +1483,6 @@
 			(type default)
 		)
 		(uuid "60af83df-1b7b-423f-a7cd-dde7885d3244")
-	)
-	(wire
-		(pts
-			(xy 196.85 90.17) (xy 198.12 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c8218f4-5940-400a-9f63-36aa659f5450")
 	)
 	(wire
 		(pts
@@ -1986,7 +1976,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 198.12 90.17 0)
+		(at 185.42 82.55 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1994,9 +1984,9 @@
 			)
 			(justify left)
 		)
-		(uuid "39355c83-abe1-41db-9d2e-988ac7e45a10")
+		(uuid "5b6f18f4-6660-4856-8eeb-c320de69a141")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.0038 90.17 0)
+			(at 185.42 75.6943 90)
 			(effects
 				(font
 					(size 1.27 1.27)
